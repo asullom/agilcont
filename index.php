@@ -8,6 +8,6 @@
         <?php
         // put your code here
         ?>
-        Hola Gits
+        Hola Git
     </body>
 </html>
